@@ -1,0 +1,16 @@
+{
+  "short_name": "TubeFlow",
+  "name": "TubeFlow: Background YouTube Player",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/play-circle.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#050505",
+  "display": "standalone",
+  "theme_color": "#dc2626",
+  "description": "Background YouTube Player PWA using Media Session API."
+}

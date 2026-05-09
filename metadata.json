@@ -1,0 +1,6 @@
+{
+  "name": "TubeFlow",
+  "description": "Background YouTube Player PWA using Media Session API for mobile and desktop focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
